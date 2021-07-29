@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.3e3e657d.chunk.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.79dea48a.chunk.js",
+    "main.js.map": "/goit-react-hw-08-phonebook/static/js/main.79dea48a.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-08-phonebook/static/js/runtime-main.eacd80f3.js",
+    "runtime-main.js.map": "/goit-react-hw-08-phonebook/static/js/runtime-main.eacd80f3.js.map",
+    "static/js/2.7385ce32.chunk.js": "/goit-react-hw-08-phonebook/static/js/2.7385ce32.chunk.js",
+    "static/js/2.7385ce32.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/2.7385ce32.chunk.js.map",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "static/css/main.3e3e657d.chunk.css.map": "/goit-react-hw-08-phonebook/static/css/main.3e3e657d.chunk.css.map",
+    "static/js/2.7385ce32.chunk.js.LICENSE.txt": "/goit-react-hw-08-phonebook/static/js/2.7385ce32.chunk.js.LICENSE.txt",
+    "static/media/default-avatar.4cff0967.webp": "/goit-react-hw-08-phonebook/static/media/default-avatar.4cff0967.webp",
+    "static/media/App.css": "/goit-react-hw-08-phonebook/static/media/wooden-table-background-with-phone-screen.c83b790a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eacd80f3.js",
+    "static/js/2.7385ce32.chunk.js",
+    "static/css/main.3e3e657d.chunk.css",
+    "static/js/main.79dea48a.chunk.js"
+  ]
+}
